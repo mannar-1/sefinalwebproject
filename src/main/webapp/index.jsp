@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>If there is No Struggle There is No progress </h2>
 </body>
 </html>
